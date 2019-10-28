@@ -59,3 +59,36 @@
 |      | 系统检测工具                  | Speccy                    |
 |      | 显示器检测工具                | DisplayerX                |
 
+## 按类别整理自己常用的Windows工具
+
+## 工具栏驻留小工具
+
+| Num | 名称 | 用途 |
+|----|----|----|
+| |Wox|快捷工具导航|
+| |Everything|搜索工具|
+| |Ditto|粘贴工具|
+| |Snipaste|截图工具|
+| |Process Explorer|Windows 官方任务管理器增强版|
+| |Listary|导航工具|
+| |cFosSpeed|网络管理|
+| |Volumouse|快捷控制音量|
+| |Rainmeter|桌面小部件|
+
+### 常用下载工具整理
+
+| Num  | 名称                    | 用途            |
+| ---- | ----------------------- | --------------- |
+|      | You-get                 | 泛用途下载      |
+|      | Youtube-dll             | 泛用途下载      |
+|      | XMLbar                  | 泛用途下载      |
+|      | WPF_JJDown              | B站下载         |
+|      | BiliRoku                | B站直播录制工具 |
+|      | dataabc-WeiboSpider     | 微博下载工具    |
+|      | Motrix                  | 下载工具        |
+|      | Pandownload             | 百度云下载      |
+|      | NueXini M3U8 Downloader | M3U8 下载       |
+|      | WeChatDownload v3.261   | 微信公众号下载  |
+|      |                         |                 |
+|      |                         |                 |
+
